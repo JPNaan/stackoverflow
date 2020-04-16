@@ -7,7 +7,7 @@
 4. [Results](#results)
 5. [Licensing, Authors, and Acknowledgements](#licensing)
 
-*note* this file is cloned as a result of Uadcity's Data Science nanaodegree program.
+-note- this file is cloned as a result of Uadcity's Data Science nanaodegree program!
 
 ## Installation <a name="installation"></a>
 
